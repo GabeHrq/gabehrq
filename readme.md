@@ -16,7 +16,8 @@ Este repositório foi criado para acompanhar minha evolução no aprendizado de 
 
 ### Como Contribuir 🤝
 
-Se você tem sugestões, dicas ou até mesmo correções, fique à vontade para abrir uma issue ou enviar um pull request
+Se você tem sugestões, dicas ou até mesmo correções, 
+fique à vontade para abrir uma issue ou enviar um pull request
 
 Estou sempre aberto para aprender com a comunidade!
 

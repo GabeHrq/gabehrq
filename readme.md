@@ -1,5 +1,6 @@
-
+<html>
 <img src = "![giphy(https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f)" widht: "325px">
+</html>
 
 ## Bem-vindo ao Meu Repositório! 🚀
 

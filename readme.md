@@ -1,6 +1,9 @@
 <html>
-  <a href = <a href="https://github.com/GabeHrq" target="_blank"> <img src = "giphy (1).gif" width='500px' align='right' display="flex" justify-content='center' margin-left='100px'> </a>
+  <img src = "giphy (1).gif" display='flex' height=400px align='right'>
 </html>
+<div>
+  
+</div>
 
 ## Bem-vindo ao Meu Repositório! 🚀
 
@@ -16,10 +19,29 @@ Este repositório foi criado para acompanhar minha evolução no aprendizado de 
 
 ### Como Contribuir 🤝
 
-Se você tem sugestões, dicas ou até mesmo correções, 
-fique à vontade para abrir uma issue ou enviar um pull request.
+Se você tem sugestões, dicas ou até mesmo correções, fique à vontade para abrir  
+uma issue ou enviar um pull request.
 
 Estou sempre aberto para aprender com a comunidade!
 
 Vamos codar! 💻✨
+
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title='JavaScript' width='40px' heigth='40px' margin-right='20px'/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title='ReactJS' width='40px' heigth='40px' margin-right='20px'/>&nbsp;
+</div>
+
+---
+
+<div>
+
+  <a href = "https://www.instagram.com/gabe_hrq/">
+    <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">&nbsp;
+  </a>
+  <a href = "https://www.linkedin.com/in/gabriel-hrq/">
+    <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;
+  </a>
+  
+</div>
+
 

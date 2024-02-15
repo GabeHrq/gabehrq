@@ -1,4 +1,5 @@
-<img src = "https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f" width: "325px" >
+
+<img src = "![giphy(https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f)" widht: "325px">
 
 ## Bem-vindo ao Meu Repositório! 🚀
 
@@ -17,6 +18,5 @@ Este repositório foi criado para acompanhar minha evolução no aprendizado de 
 Se você tem sugestões, dicas ou até mesmo correções, fique à vontade para abrir uma issue ou enviar um pull request
 
 Estou sempre aberto para aprender com a comunidade!
-![giphy](https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f)
 
 Vamos codar! 💻✨

@@ -1,5 +1,5 @@
 <html>
-  <a href = <a href="https://github.com/GabeHrq" target="_blank"> <img src = "giphy.gif" width='400px' align='right'> </a>
+  <a href = <a href="https://github.com/GabeHrq" target="_blank"> <img src = "giphy (1).gif" width='500px' align='right' display="flex" justify-content='center' margin-left='100px'> </a>
 </html>
 
 ## Bem-vindo ao Meu Repositório! 🚀

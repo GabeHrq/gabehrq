@@ -1,6 +1,9 @@
 <html>
-<img src = "![giphy(https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f)" widht: "325px">
+  
+<img src = "https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f" width= "250" align: "right">
+
 </html>
+
 
 ## Bem-vindo ao Meu Repositório! 🚀
 
@@ -21,3 +24,4 @@ Se você tem sugestões, dicas ou até mesmo correções, fique à vontade para 
 Estou sempre aberto para aprender com a comunidade!
 
 Vamos codar! 💻✨
+

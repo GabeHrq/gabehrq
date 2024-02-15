@@ -1,4 +1,5 @@
 
+
 ## Bem-vindo ao Meu Repositório! 🚀
 
 Olá! 👋 Eu sou Gabriel, e este é meu repositório no GitHub. Estou dando os primeiros passos na jornada da programação em JavaScript e estou animado para aprender e compartilhar meu progresso aqui!

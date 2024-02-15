@@ -1,9 +1,3 @@
-<html>
-  
-<img src = "https://github.com/GabeHrq/gabehrq/assets/107261096/84f77c49-3b94-4786-b835-b324959dd19f" width= "250" align: "right">
-
-</html>
-
 
 ## Bem-vindo ao Meu Repositório! 🚀
 
